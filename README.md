@@ -4,6 +4,8 @@ This is a project which uses tensorflow for the task of image recognition on the
 
 Hyperparameter selection was done with hyperband tuning, and the model shows high performance given its simplicity. 
 
+A complete report on this project can be found <a href="https://github.com/samuelzureick/Image-Recognition-CNN/blob/main/CIFAR10%20Project.pdf">here</a>.
+
 # Network Architecture
 ![Network Architecture](https://github.com/samuelzureick/Image-Recognition-CNN/blob/main/img-resources/arch.png)
 # Network Performance
@@ -11,4 +13,4 @@ Hyperparameter selection was done with hyperband tuning, and the model shows hig
 
 ![Network Accuracy](https://github.com/samuelzureick/Image-Recognition-CNN/blob/main/img-resources/accuracy.png)
 ![Network Loss](https://github.com/samuelzureick/Image-Recognition-CNN/blob/main/img-resources/loss.png)
-A complete report on this project can be found <a href="https://github.com/samuelzureick/Image-Recognition-CNN/blob/main/CIFAR10%20Project.pdf">here</a>.
+
